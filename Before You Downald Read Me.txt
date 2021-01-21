@@ -1,0 +1,5 @@
+# Discord-API-Bots
+New project for new members of "discord.js" to learn with GitHub!
+
+__info__
+This is only for begginers. If you are an pro we suggest you to help anothers. Here are some basic code for begginers to only learn.
